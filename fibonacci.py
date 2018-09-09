@@ -1,8 +1,5 @@
 import sys
 
-def reset(memo, n):
-    memo = [0 for _ in range(n)]
-
 
 def fibo_recursive(n):
     if n == 0 or n == 1:
