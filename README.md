@@ -2,10 +2,12 @@
 
 A set of examples to calculate the Nth number in the fibonacci series.  
 
-Solutions in C++ are:
+Implementations in C++ are:
 - Iterative
 - Recursive
-- Dynamic (using memorization)
+- Dynamic Programming/Memorization
 
-Solutions in Python are:
-- none yet
+Implementations in Python are:
+- Iterative
+- Recursive
+- Dynamic Programming/Memorization
